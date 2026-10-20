@@ -1,0 +1,11 @@
+{
+  "name": "claude-deconstruct",
+  "description": "First-principles analyst for Claude Code. Surfaces hidden assumptions, establishes foundational truths, rebuilds the problem from scratch, and identifies the high-leverage move that conventional analysis would miss. Two modes: fast (Phase 1 + Phase 4) and full (all four phases).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mycelium AI",
+    "url": "https://myceliumai.co"
+  },
+  "repository": "https://github.com/adelaidasofia/claude-deconstruct",
+  "license": "MIT"
+}
